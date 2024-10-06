@@ -1,9 +1,9 @@
 import json
 
-ADMIN_ID = "6154462210"
-URL = "https://cc79-86-62-2-178.ngrok-free.app"
-TOKEN = "6662634917:AAGb5i24Icsr8D2ANuhXwgIB8gF9Azz6Gbk"
-CHANNEL = "@burkhonstestchannel"
+ADMIN_ID = "5002209911"
+URL = "https://tur-6hpw.onrender.com"
+TOKEN = "7700176440:AAGvP6EEvOoo65zE8fzVsHQPRKQbcOtYCIE"
+CHANNEL = "@turin_incognito"
 
 messages = {
     'start': "<b>Welcome to Anonymous Bot!\n\n👋 Hi there!</b> We’re here to help you share your thoughts anonymously, safely, and with ease.\n\n🚀 <b>How it works:</b>\n\n  •  Send us any message you want.\n  •  We’ll forward it anonymously to the community.\n  •  For messages with links, we’ll review them before sharing!\n\nFeel free to drop your message anytime—your privacy is our priority! 💬",
